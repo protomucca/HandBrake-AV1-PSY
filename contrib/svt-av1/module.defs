@@ -3,7 +3,7 @@ $(eval $(call import.CONTRIB.defs,SVT-AV1))
 
 SVT-AV1.FETCH.url     = https://github.com/psy-ex/svt-av1-psy/releases/download/v2.3.0-B/Linux_svt-av1-psy-v2.3.0-B_x86-64-v4.7z
 SVT-AV1.FETCH.url    += https://github.com/psy-ex/svt-av1-psy/releases/download/v2.3.0-B/Linux_svt-av1-psy-v2.3.0-B_x86-64-v4.7z
-#SVT-AV1.FETCH.sha256  = ebb0b484ef4a0dc281e94342a9f73ad458496f5d3457eca7465bec943910c6c3
+##SVT-AV1.FETCH.sha256  = ebb0b484ef4a0dc281e94342a9f73ad458496f5d3457eca7465bec943910c6c3
 
 SVT-AV1.GCC.args.c_std =
 
